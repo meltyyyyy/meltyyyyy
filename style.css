@@ -22,3 +22,19 @@ canvas {
   background-size: cover;
   background-position: 50% 50%;
 }
+
+.content{
+  position: absolute;
+  top: 50%;
+  left: 25%;
+  height: 100px;
+  width: 50vw;
+ }
+ .content-text{
+  color: #ff1493;
+  line-height: 100px;
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ }
