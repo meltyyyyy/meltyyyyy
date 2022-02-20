@@ -1,5 +1,3 @@
-import Typewriter from 'typewriter-effect/dist/core';
-
 var app = document.getElementById('typewriter');
 
 var typewriter = new Typewriter(app, {
