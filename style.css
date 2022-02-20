@@ -2,7 +2,6 @@
 
 body {
   margin: 0;
-  font:normal 75% Arial, Helvetica, sans-serif;
 }
 
 canvas {
@@ -34,7 +33,7 @@ canvas {
   /* ---- typewriter.js css ---- */
 
  #typewriter{
-  color: #000000;
+  color: #ff66cc;
   line-height: 100px;
   text-align: center;
   font-size: 40px;
