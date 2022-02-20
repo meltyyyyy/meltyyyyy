@@ -10,7 +10,7 @@ canvas {
   vertical-align: bottom;
 }
 
-/* ---- particles.js container ---- */
+/* ---- particles.js css ---- */
 
 #particles-js {
   position: absolute;
@@ -31,8 +31,10 @@ canvas {
   width: 50vw;
  }
 
- .content-text{
-  color: #b9b9b9;
+  /* ---- typewriter.js css ---- */
+
+ #typewriter{
+  color: #000000;
   line-height: 100px;
   text-align: center;
   font-size: 40px;
