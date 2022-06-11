@@ -6,5 +6,5 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=meltyyyyy&count_private=true&show_icons=true" />
 </a>
 <p align="center">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=meltyyyyy)](https://github.com/ryo-ma/github-profile-trophy)
+  <img alig src="https://github-profile-trophy.vercel.app/?username=meltyyyyy&column=6" />
 </p>
